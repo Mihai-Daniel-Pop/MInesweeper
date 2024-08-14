@@ -1,11 +1,6 @@
 from tkinter import *
 import random
 
-# Initialize the main application window
-root = Tk()
-root.configure(bg="#000000")
-root.title("Minesweeper")
-root.iconbitmap('D:\G\Minesweeper\minesweeper.ico')
 
 # Define grid dimensions (e.g., 10x10 grid)
 rows, cols = 10, 10
